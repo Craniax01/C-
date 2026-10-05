@@ -12,3 +12,4 @@ D:\C#\Week1\PersonalDetails\obj\Debug\net10.0\refint\PersonalDetails.dll
 D:\C#\Week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.pdb
 D:\C#\Week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.genruntimeconfig.cache
 D:\C#\Week1\PersonalDetails\obj\Debug\net10.0\ref\PersonalDetails.dll
+D:\C#\Week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.sourcelink.json
