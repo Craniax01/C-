@@ -1,0 +1,15 @@
+D:\C#\Week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.exe
+D:\C#\Week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.deps.json
+D:\C#\Week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.runtimeconfig.json
+D:\C#\Week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.dll
+D:\C#\Week 3\OperatorsAndControlFlow\bin\Debug\net10.0\OperatorsAndControlFlow.pdb
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.AssemblyInfoInputs.cache
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.AssemblyInfo.cs
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.csproj.CoreCompileInputs.cache
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.sourcelink.json
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.dll
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\refint\OperatorsAndControlFlow.dll
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.pdb
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\OperatorsAndControlFlow.genruntimeconfig.cache
+D:\C#\Week 3\OperatorsAndControlFlow\obj\Debug\net10.0\ref\OperatorsAndControlFlow.dll
